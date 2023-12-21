@@ -1,0 +1,89 @@
+{
+   "checksum": "0006e03d74312f7509e7f4e807734a90",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13347596049461218",
+            "date_last_used": "0",
+            "guid": "b67065df-cf28-4264-a296-25faad0ec6d5",
+            "id": "7",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge"
+         }, {
+            "children": [ {
+               "date_added": "13270419913456162",
+               "date_last_used": "0",
+               "guid": "d8d37f69-b568-4607-9007-55c5025b9f98",
+               "id": "9",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13270419913477800",
+               "date_last_used": "0",
+               "guid": "1f097cd1-ec11-4b40-8682-9705947c219b",
+               "id": "11",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/"
+            }, {
+               "date_added": "13270419913481336",
+               "date_last_used": "0",
+               "guid": "692cc87b-a913-469f-8214-18e257a14efe",
+               "id": "13",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13347596053154819",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "d51caab0-7169-46d8-8658-af88118076ef",
+            "id": "8",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13347596049154234",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13347596049154236",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347596049154238",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

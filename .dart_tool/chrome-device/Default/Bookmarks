@@ -1,0 +1,368 @@
+{
+   "checksum": "eb3e7c9dd2e470194da441b58ac794b3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13273620847768071",
+            "date_last_used": "13344727580984213",
+            "guid": "0833893e-0481-4a8c-9ef8-dc52f5784049",
+            "id": "23",
+            "name": "Mail - Eduardo Ruiz de Garay - Outlook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox"
+         }, {
+            "date_added": "13276792760870447",
+            "date_last_used": "13340339785930579",
+            "guid": "e30fc0a3-8d63-4ec4-83bd-9f0e874ce567",
+            "id": "24",
+            "name": "Dashboard",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://northeastern.instructure.com/"
+         }, {
+            "date_added": "13313176095983449",
+            "date_last_used": "13327981019069514",
+            "guid": "4dd6308a-11e8-443e-b777-45bc7c5d806c",
+            "id": "25",
+            "name": "NULinks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nulinks.kj800x.com/"
+         }, {
+            "date_added": "13274154545556305",
+            "date_last_used": "13343318708523186",
+            "guid": "2d20cd8b-0227-4ab9-8e73-a9d06d0d7efd",
+            "id": "26",
+            "name": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://finance.yahoo.com/"
+         }, {
+            "date_added": "13308005367489206",
+            "date_last_used": "0",
+            "guid": "514599c7-4404-4167-82a6-073fc883892d",
+            "id": "27",
+            "name": "Your Projects - Overleaf, Online LaTeX Editor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.overleaf.com/project"
+         }, {
+            "date_added": "13325783036237562",
+            "date_last_used": "0",
+            "guid": "63f842e1-534b-4309-9b96-628fea5132e6",
+            "id": "28",
+            "name": "Explore - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/679/sql-syntax/4358/"
+         }, {
+            "date_added": "13325828324807221",
+            "date_last_used": "0",
+            "guid": "8378a2ee-f26a-46cb-9ca4-c4f2c3e4d911",
+            "id": "29",
+            "name": "Coding/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf at master · Avinash987/Coding · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
+         }, {
+            "date_added": "13342564898881323",
+            "date_last_used": "0",
+            "guid": "46608e58-b68f-4c10-84ef-02f64ba35bdb",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers.twosigma.com/careers/ApplicationRegister?jobId=11991"
+         }, {
+            "date_added": "13342564903448176",
+            "date_last_used": "0",
+            "guid": "41a0f747-2b69-44c7-b2ca-a75e9c2287b3",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "US SIG Intern Openings",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers.sig.com/intern-openings"
+         }, {
+            "date_added": "13342564906903191",
+            "date_last_used": "0",
+            "guid": "16ff16c2-69f7-4bfe-9d5e-1d8f7d9af987",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.jumptrading.com/careers/"
+         }, {
+            "date_added": "13342564910829881",
+            "date_last_used": "0",
+            "guid": "63860874-e716-477f-bbf4-216bd417f9da",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Quantitative Trader :: Jane Street",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.janestreet.com/join-jane-street/position/6850721002/"
+         }, {
+            "date_added": "13342564919997381",
+            "date_last_used": "0",
+            "guid": "8668c1d8-2943-4b32-80fb-300dde9a00f1",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Quantitative Researcher :: Jane Street",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.janestreet.com/join-jane-street/position/6838982002/"
+         }, {
+            "date_added": "13342564922979282",
+            "date_last_used": "0",
+            "guid": "fe1ef73b-54f5-4303-bff2-4d583df5ea43",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Quantitative Researcher :: Jane Street",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.janestreet.com/join-jane-street/position/6837502002/"
+         }, {
+            "date_added": "13342564925498587",
+            "date_last_used": "0",
+            "guid": "f8d3e50d-eeee-4334-93b3-4683f9181376",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Software Engineer :: Jane Street",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.janestreet.com/join-jane-street/position/6834728002/"
+         }, {
+            "date_added": "13342564930166940",
+            "date_last_used": "0",
+            "guid": "ab787d6a-b0ff-4c52-abd0-dbb70585470f",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers at Hudson River Trading",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271837&req_id=447"
+         }, {
+            "date_added": "13342564932643579",
+            "date_last_used": "0",
+            "guid": "90902875-1a41-433f-80fe-a445b0e3bc76",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers at Hudson River Trading",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271783&req_id=443"
+         }, {
+            "date_added": "13342564939651812",
+            "date_last_used": "0",
+            "guid": "7a6d9c54-0cf9-40b5-81bf-df093a85db75",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Jobs and Employment at Lyft | Simplify Jobs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://simplify.jobs/c/Lyft"
+         }, {
+            "date_added": "13342564943679098",
+            "date_last_used": "0",
+            "guid": "073ceb2c-c623-4050-9c6a-a3524b431e93",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Job Application for Front End Software Engineer Summer Intern at Two Six Technologies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4992838004"
+         }, {
+            "date_added": "13342564946357290",
+            "date_last_used": "0",
+            "guid": "da0bcebe-4258-42d2-a693-f0580b0736a2",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Job Application for 2024 Investments & Risk Technology Intern at Internship Positions at Global Atlantic Financial Group",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://boards.greenhouse.io/gainternships/jobs/5406894"
+         }, {
+            "date_added": "13342564949563338",
+            "date_last_used": "0",
+            "guid": "83d6bd9a-9e8e-4464-bb92-c9edb62732a0",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Applied-Statistical-Learning---Informatics---Predictive-Science--IPS--Internship_R1574588?ref=Simplify"
+         }, {
+            "date_added": "13342564953130343",
+            "date_last_used": "0",
+            "guid": "aba03fec-ac07-411c-ac4f-10a6eb555e2e",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Informatics-and-Predictive-Sciences--IPS--Internship_R1574590?ref=Simplify"
+         }, {
+            "date_added": "13342564955514150",
+            "date_last_used": "0",
+            "guid": "1e371a21-f4be-42b8-a68e-83af13a36d52",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Data-Science---Informatics-and-Predictive-Sciences--IPS--Internship_R1574598?ref=Simplify"
+         }, {
+            "date_added": "13342564958900127",
+            "date_last_used": "0",
+            "guid": "a545c6d2-96c6-4829-81d9-ceeb26913781",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Summer 2024 - Machine Learning and Bioinformatics - Informatics and Predictive Science (IPS) Internship : Voluntary Disclosures",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Summer-2024---Machine-Learning-and-Bioinformatics---Informatics-and-Predictive-Science--IPS--Internship_R1574592/apply/applyManually?ref=Simplify"
+         }, {
+            "date_added": "13347596049461218",
+            "date_last_used": "0",
+            "guid": "b67065df-cf28-4264-a296-25faad0ec6d5",
+            "id": "7",
+            "name": "fubo TV - Free Trial",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.fubo.tv/lp/dell/?irad=343747&irmp=2423878&sharedid=edge"
+         }, {
+            "children": [ {
+               "date_added": "13270419913456162",
+               "date_last_used": "0",
+               "guid": "d8d37f69-b568-4607-9007-55c5025b9f98",
+               "id": "9",
+               "name": "Dell Auction",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13270419913477800",
+               "date_last_used": "0",
+               "guid": "1f097cd1-ec11-4b40-8682-9705947c219b",
+               "id": "11",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/"
+            }, {
+               "date_added": "13270419913481336",
+               "date_last_used": "0",
+               "guid": "692cc87b-a913-469f-8214-18e257a14efe",
+               "id": "13",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13347596053154819",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "d51caab0-7169-46d8-8658-af88118076ef",
+            "id": "8",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13347596049154234",
+         "date_last_used": "0",
+         "date_modified": "13342564958900127",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13347596049154236",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13347596049154238",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJQFEIqMAQAAEgAgASoYdWtPTE5RS1ZRZW5XNmQxZkU0WTltQT09oAYMEqgBCA0SowEKHDlna3NhT21vS2VkbjNKTGVlZ2NSTzZSaXJoTT0SJDY5MmNjODdiLWE5MTMtNDY5Zi04MjE0LTE4ZTI1N2ExNGVmZRgAIAEoATCCv7PQyDE4nKqx0MgxQJyqsdDIMUocVW4vR3I5aEFuclUzbVJ6RTR1d2xFSTI1ZkJnPVofIh3QUERPM3hUWnJMYnlMRFVXUzRTVjgyc0hOeU9BPWUAAAAAEqgBCAsSowEKHHFJSTJwa1Nmc0IwTXltOUdLVHpzT2MrZGhZaz0SJDFmMDk3Y2QxLWVjMTEtNGI0MC04NjgyLTk3MDU5NDdjMjE5YhgAIAEoATCGv7PQyDE4nKqx0MgxQJyqsdDIMUocQVZOLzhjR1VyNHFzTWp4VE5OWkdQSkJFOU13PVofIh2hM0RYa1RSdE82b0hHbEEzM0JXU2plOUdiK1BzPWUAAAAAErABCAgSqwEKHGoxS05SdGlBWEo0UkYzU2hIdENmQ095MkJubz0SJGQ1MWNhYWIwLTcxNjktNDZkOC04NjU4LWFmODgxMTgwNzZlZhgAIAEoATD4p7PQyDE4nKqx0MgxQJyqsdDIMUocR09PODJiWU96cGluMktLSkpoKzhhRkdqZnNnPVonIiX/////AAAABPtFNW5GUGE4S1ZtRnhpTDBRNWsreDJYZXVrM3M9ZQAAAAASsAEILBKrAQocQm1idGtOTmRQNEZHOGxrQ284VGNDTWpSczZrPRIkMWUzNzFhMjEtZjRiZS00MmI4LWE2OGUtODNhZjEzYTM2ZDUyGAAgAigCMIO/s9DIMTiQuo/xtTFArKqx0MgxShxmdEMxZ0tiOEgvUWlQQjBEQVo0aFVXd2NyT0E9WiciJf////8AAAAE71ZRWG0wNmlZeDBIRWdRNG1NdmJ4cVVMV3ZvVT1l67IdNxKvAQgmEqoBChx0NVd0MnpvVFkyZ3ZTN1pTTEl0T2hIT0ZHRjA9EiQ5MDkwMjg3NS0xYTQxLTQzM2YtODBmZS1hNDQ1YjBlM2JjNzYYACACKAIw7Kez0MgxOJT2hfG1MUCqqrHQyDFKHDFNQ2xqQVJpMmRGcFJ4MWU2T3Nva1dYM2ZvOD1aJiIk/////wAAAAQ3Smd2Z0EyQkRvQUo3ZmJEUnlJUWhTV2l1aU09ZfkD36sSrwEIKBKqAQocRkdGVXRsN0NwdUhnYlo2KzhHOHRSblhxbHlrPRIkMDczY2ViMmMtYzYyMy00MDUwLTljNmEtYTM1MjRiNDMxZTkzGAAgAigCMOens9DIMTjDt4jxtTFAq6qx0MgxShxnUUdCb3JwamNTWDRZUEJoZWozYVVaL3VKNEU9WiYiJP////8AAAAEeDQyYUQrVTFqMlpKQ0RmUXRxSEhDTVBtWjRVPWXoD4xlEqsBCCUSpgEKHFZOdkFJUVFucEVBL0pxZENlSUp4OHU3aGhhQT0SJGFiNzg3ZDZhLWIwZmYtNGM1Mi1hYmQwLWRiYjcwNTg1NDcwZhgAIAIoAjCEv7PQyDE48eKF8bUxQKmqsdDIMUocRllHNlY0R1ZoTVpOY0RXQzBpWUkwSm4vRCtRPVoiIiD////+US84L1JFc2dZajRWejNDMHdqemNyWDF5NmtzPWX5A9+rEqoBCBsSpQEKHFpKSS9sSnRHNThBRmx1dmJWTGpTSDc1V1BuUT0SJDUxNDU5OWM3LTQ0MDQtNDE2Ny04MmE2LTA3M2ZjODgzODkyZBgAIAIoAjD2p7PQyDE4qdbJ4tAwQKWqsdDIMUocdzhLSzVHb2o2OEpyekVrOFZEeWFndSszNTdNPVohIh///7tncUN2bXJuOWZlTldWNnkybGxLSDJ5ZWRrYlE9ZUQ+CfISqwEIJBKmAQocdzlrNEpoVGgxMGNzSGVGWDJDeDBuY0M4TGw4PRIkZjhkM2U1MGQtZWVlZS00MzM0LTkzYjMtNDY4M2Y5MTgxMzc2GAAgAigCMPWns9DIMTjFvoXxtTFAqaqx0MgxShxWaXhLY3BPcUJ4RXZGYjRaazhnbEhtbEViNTA9WiIiIP////1YMjZDRSttRnBvTStsZ3hvd1BhTTRHRW9TdFk9ZSE/E1gSsAEILRKrAQocMEhlUDVQdGEwdkQzTzNaY3hBaGdvdXFab1FzPRIkYTU0NWM2ZDItOTZjNi00ODI5LTgxZDktY2VlYjI2OTEzNzgxGAAgAigCMO+ns9DIMTi4u4/xtTFAraqx0MgxShxSVlF2bEEwbnJYejV5VWxWSTU2alQzZVhUcjA9WiciJf////8AAAAE93pUdE1pZmMyUTBOblFpUkdKNFdXWGt0UHcvZz1l67IdNxKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ4ZWNlNjJkNi05MWE0LTVlYzctYTRhZi0yNmY0NWUyODYyNjIYACAAKAAwl5jaj6kvOLmGl6+AMEC5hpevgDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEq8BCCcSqgEKHDkrc2p6R0EzbkJMbGhPZ2M4d3ladXRMdDZyQT0SJDdhNmQ5YzU0LTBjZjktNDBiNS04MWJmLWRmMDkzYTg1ZGI3NRgAIAIoAjD3p7PQyDE4gq2G8bUxQKqqsdDIMUocTjRCa2ZTMWl5eTNvVDcyRWJSVi81THQrUEtjPVomIiT/////AAAABERWSUxTQWxrMjBRaHBaNU1kSEFha1VSREZkZz1l1nQIzRKqAQgeEqUBChxvN1RrbWhXYmU1eHpNN1Qyb3Y1M2Y5TU9ObjQ9EiQ0NjYwOGU1OC1iNjhmLTRjMTAtODRlZi0wMmY2NGJhMzViZGIYACACKAIwhb+z0MgxOOHug/G1MUCmqrHQyDFKHDFiM0lyWVdDSlg2NkFURW9COXZ3cm9RaGlHQT1aISIf////c1FjaENuUzA3TWtlcEFXYkZaNVdSVXNuQ2o0PWURh15QEqsBCCMSpgEKHDZuUUNDc1JrTWRuaEdIOW0xcnRZajY4NzhEUT0SJGZlMWVmNzNiLTU0ZjUtNDMwMy1iZmYyLTRkNTgzZGY1ZWE0MxgAIAIoAjDyp7PQyDE426qF8bUxQKmqsdDIMUocNW5kZlRsWjM4MVVWZ2R1eEQvWnBFc2d3eFNJPVoiIiD////7OUxEaDRiUXJ1Y3RHVWh0aC9qdEkwalA3cnlzPWUhPxNYEqsBCCISpgEKHDFqdXMxTFdGZFJWbWRXUzdsWStra3NQTmVoRT0SJDg2NjhjMWQ4LTI5NDMtNGIzMi04MGZiLTMwMGRkZTlhMDBmMRgAIAIoAjDxp7PQyDE4rJOF8bUxQKiqsdDIMUoceUxPa2J5K1JuTGFlQnhobTBWaUdJYjFQaitvPVoiIiD////3d2VnMjhoOTFBUFAyTVgrSklUTUxoL01YUEpjPWUhPxNYEqcBCBgSogEKHGFmQnhhUmF2R3VSbmZIamdRLytlQk5pL2QvUT0SJGUzMGZjMGEzLThkNjMtNGVjNC04M2JkLTlmMGU4NzRjZTU2NxgAIAIoAjCBv7PQyDE4jpqXr4AwQKOqsdDIMUocU1EzMGNlQ1c2VGQ1WmlpNHhlUDZCMDdEYW9BPVoeIhxXYVNzSWo4VmFYbG9VdVA3ektZdWMrYzkyOE09ZR2p8rUSqwEIIRKmAQocVU9CME1GV3BrVEJJQWVhWkRrV0RLNFJJbjFZPRIkNjM4NjA4NzQtZTcxNi00NzdmLWJiZjQtMjE2YmQ0MTdmOWRhGAAgAigCMPCns9DIMTiCzITxtTFAqKqx0MgxShxaQjFTT2tuM1lyUHNtelA1RWFYdTVzR2dsZFk9WiIiIP///+5US2w5c1pzS2dTaXd3YjQvSkxXdktWWU95QjA9ZSE/E1gSpwEICRKiAQocNFdHVmljMGFWblRUbE1UWFhQeUYwL1JWakNvPRIkZDhkMzdmNjktYjU2OC00NjA3LTkwMDctNTVjNTAyNWI5Zjk4GAAgASgBMIC/s9DIMTicqrHQyDFAnKqx0MgxShxyMFljQ0pMWDVZbFhPUnUyQVFFb251VXRuTFE9Wh4iHENHTSt4WW5EQ0JxaVY3YnZNazJ1ckt1RlgvST1lAAAAABKrAQggEqYBChxxbWZuTUVkY1lZaEpWOXA4QVM0WmRDWlJ6emM9EiQxNmZmMTZjMi02OWY3LTRiZmUtOWQ1ZS0xZDhmN2Q5YWY5ODcYACACKAIw86ez0MgxOPashPG1MUCnqrHQyDFKHHp6SlhWZUV2SnpONzVzVnBqNmUrcGoxMUd4ND1aIiIg////3EZsS0UzOEc5Q0FDRHVuQUJmOUtUemthYno5RT1lPO6O0BKqAQgdEqUBChxzS2FBN1VxTlJpN3BmSVZpYUpjWkNTczBnTGM9EiQ4Mzc4YTJlZS1mMjZhLTQ2Y2ItOWNhNC1jNGYyYzNlNGQ5MTEYACACKAIw7aez0MgxOIuZt8T3MECmqrHQyDFKHGVTbFdDNWNYbkE2bE9MVFBYME15cEQ2K0l2az1aISIf///7VFJBak13bDZzdDQ2U0IxNVppQTBoR1JIdnhnPWXApSi6EqsBCB8SpgEKHEhGek90ZDZmcnBsZkNzSU5MMk9qdk9aTjhoND0SJDQxYTBmNzQ3LTJiNjktNDRjNy1iMmNhLWE3NWU5YzIyODdiMxgAIAIoAjDup7PQyDE4h5KE8bUxQKeqsdDIMUocVm1nZVlmdWV5Qno0SmZ2NE5nczV2cStoNjhZPVoiIiD///+5RGQyS2tYNjkzbTd5R3FaSHFkNjh1TThTL1FBPWWptI58EqgBCBoSowEKHDFvSHpUTTROdmRGQnBYdlRzY0lvdTM3NVVnTT0SJDJkMjBjZDhiLTAyMjctNGFiOS04ZTczLWE5ZDA2ZDBkN2VmZBgAIAIoAjDrp7PQyDE4hIiXr4AwQKWqsdDIMUocK21FWkcxVkRBVFQ5RmdoRTBxZXkxeDZIWDdnPVofIh2rVjNiblBvcE5KcmY1NzFmMzNoZGNUemZTYjhRPWXUmE6iEqcBCBkSogEKHDdKUW1JSGRMbXJoN0NpUnJCOFdhdXdBRE54Zz0SJDRkZDYzMDhhLTExZTgtNDQzZS1iNzc3LTQ1YmM3YzVkODA2YxgAIAIoAjDqp7PQyDE4gNnJ4tAwQKSqsdDIMUoccDBXc2dKRm5Od1N6MHlqcmhsL1ROZnAycTRnPVoeIhxyM3QvWXZTU2p5TGVrRGI4RjRBdWxOUjZ6Y2s9ZVmLFkQSsAEIKxKrAQocdk1ROENtcmY0MGo2enpUK0VCN2VzV1J4MllBPRIkYWJhMDNmZWMtYWMwNy00MTFjLWFjNGYtMTBhNmViNTU1ZTJlGAAgAigCMOins9DIMTiwuo/xtTFArKqx0MgxShw5UWFMQTRqTzcyZTZXTDRQNzUrT2pnbHdOb1U9WiciJf////8AAAAE3lUra3MrUGtKaGNCWXFqREhSb1NRbSt2eFRDYz1l67IdNxKvAQgpEqoBChxLMGZCbnEwV05JejJEeGhMdHBZTjlicHJqK0E9EiRkYTBiY2ViZS00MjU4LTQyZDItYTY5My1mMDU4MGIwNzM2YTIYACACKAIw6aez0MgxOJe7j/G1MUCrqrHQyDFKHEcwSlBEU09TZ2xNcWFsWXVwV3hqTzlBMUswST1aJiIk/////wAAAAR5SjE5a3NoNFgzSjJySEdKOFRHMnhFTEw0VlE9ZegPjGUSsAEIKhKrAQocUDZDblRObWkyQTBXYVBxRTA2U3c4TEI0TFd3PRIkODNkNmJkOWEtOWU4ZS00NDY0LWJiOTItYzllZGI2MjczMmEwGAAgAigCMPSns9DIMTj2uo/xtTFAq6qx0MgxShxmcVJwT0preFpCTzZSVUkxUk5sRkxyWmg0N1E9WiciJf////8AAAAEvFRWQ1h6RXJHR0xUbWFSWHJCbXljdnA0dytScz1l67IdNxKqAQgcEqUBChx0ZHBhL0FPSFpTOGJWQ3YyK3AzQk1UZnFUakk9EiQ2M2Y4NDJlMS01MzRiLTQzMDktOWI5Ni02MjhmZWE1MTMyZTYYACACKAIw5qez0MgxOLOd6K73MEClqrHQyDFKHHNXK1M5RHVmRUs2TWI3Y2hxaTBuRnMya1VkWT1aISIf///3ZmtBTVRTbU5FWTZyTzRObHR2dFJFM0Ewc0M4PWXa2JJkEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGJiNGQ4NWE5LWZkNWYtNWJjMS1iNWQ2LTYzZTkwZjY4NmM1ZhgAIAAoADCXmNqPqS842IaXr4AwQNiGl6+AMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIFxKiAQocMlhuWmJPQkFOVGpNK1FYa0xuSXNHeWRUMHFnPRIkMDgzMzg5M2UtMDQ4MS00YThjLTllZjgtZGM1MmY1Nzg0MDQ5GAAgAigCMOWns9DIMTinnJevgDBAo6qx0MgxShxrb0lPU21saW1STDFtZ0pVbmZQRmpyb1Q3SU09Wh4iHEJoT0VXRmJ4alZKaTV2Y2hLK0JETGVoeTROYz1lpxzSGRKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRiNzk3OTA3MS03OGNjLTVhOGUtOTViYS1iMzdhY2EwZDRkMzAYACAAKAAwl5jaj6kvOMiGl6+AMEDIhpevgDBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
